@@ -2,11 +2,11 @@
 2) Disabling uneeded services/firewall restricting which network ranges can connect, Windows - SMB, WinRM, RDP, Netbios, etc. Linux - ssh, smb, ftp, print ports, etc.
 3) Running hardening scripts to severely reduce exploitation potential.
 
-Windows:
+#Windows:
 https://github.com/atlantsecurity/windows-hardening-scripts/blob/main/Windows-10-Hardening-script.cmd
 https://github.com/atlantsecurity/windows-hardening-scripts/blob/main/windows-server-2019-hardening-script.cmd
 
-Linux:
+#Linux:
 https://www.youtube.com/watch?v=XYxybI7xZTw
 https://github.com/konstruktoid/hardening
 https://github.com/4rji/ccdc (havent checked the safety of this yet)
