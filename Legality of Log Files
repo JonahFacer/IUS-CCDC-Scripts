@@ -1,0 +1,15 @@
+Date: 1/25/25
+To: Management Team
+From: Team 14
+Subject: Legality of Log Files
+
+Given that firewall logging was only enabled for 24 hours our team does have concerns with the file being admitted into evidence.
+Firewall logs store infromation about who,what,when,and where data is comming from and entering the firewall. This information is even if edited can show private data.
+Also if the logs are editied this can change how the logs are read which can lead to misinformation regarding the logs. However, showing the unedited logs could also lead to a breach in security.
+The timelogs, port numbers, and timestamps of IP addresses. This infromation and the sharing of it could also led to our users having concerns about their security.
+Firewall logging being turned on in such a short time also did not give our team enough time to verifiy that the fireware loggs are accurate and correctly logging all infromation.
+The firewall logs were also turned on after a suspected breach these means that it is possible the logs are not accurate since an attack was alreasdy happening at the time. 
+Therefore our team has many concerns regarding the file being admitted into evidence.
+
+Thank you
+Team 14
