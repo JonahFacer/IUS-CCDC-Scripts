@@ -1,0 +1,14 @@
+Mangement Team,
+
+  Our team has performed a port scan of the external connection to our network. Here is our report of what we have found.
+
+  Port 80/tcp, 22/tcp, 21/tcp, 111/tcp, and 53/tcp are open. The 21/tcp port is ftp this needs to be open for file tranfers.
+Port 22/tcp is also open. It is ssh and needs to be left open for incoming conections.
+Port 53/tcp is also open this is the domain. 80/tcp is open for http this also is needed for connections. The last open port is 111/tcp this is open for rpcbind.
+
+  Our team also found 995 closed ports that need to remain closed. Keeping these services closed will allow us to stay secure and mitigate exposures of our server.
+
+  We have also attached a sceenshot of our examination.
+
+Thank you,
+Team 14
