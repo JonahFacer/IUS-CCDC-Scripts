@@ -1,3 +1,9 @@
+Link to login ccdcadmin3.morainevalley.edu
+
+
+
+
+
 1) Changing users and admin passwords for the domain(active directory) and local device, LDAP + services
 2) Disabling uneeded services/firewall restricting which network ranges can connect, Windows - SMB, WinRM, RDP, Netbios, etc. Linux - ssh, smb, ftp, print ports, etc.
 3) Running hardening scripts to severely reduce exploitation potential.
